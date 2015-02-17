@@ -1,0 +1,13 @@
+Borda Simples
+
+chr(218)+chr(196)+chr(191)+chr(179)+;
+chr(217)+chr(196)+chr(217)+chr(179)+"*"
+
+Borda Dupla
+
+chr(201)+chr(205)+chr(187)+chr(186)+;
+chr(188)+chr(205)+chr(200)+chr(186)+"*"
+
+*Este é o caractere que irá preencher o Quadro ("chr(176)" apenas 
+preenche o fundo).
+
